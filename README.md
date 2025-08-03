@@ -17,5 +17,10 @@ Files in GitHub:
    - `Synthetic_Sampled_Temporal_Data.csv`: synthetic total count of out of hospital cardiac arrest cases 
    - `changi.csv`: matching meterological information from Changi weather station
 
-2. `ED_Attendance` subfolder containing `app.R` script for the deployed [dashboard](https://adamquek.shinyapps.io/ED_Attendance/)
+2. `ED_Attendance` subfolder containing:
+   - `app.R` script for the deployed [dashboard](https://adamquek.shinyapps.io/ED_Attendance/)
+   - `attendance_at_emd.csv` extracted from [MOH](https://www.moh.gov.sg/others/resources-and-statistics/healthcare-institution-statistics-attendances-at-emergency-medicine-departments)
+
+3. `glm_example.pdf` and `glm_example.Rmd` contain the script for logistic regression and interpretation on R. Running the Rmd on RStudio is highly recommended.
+
  
