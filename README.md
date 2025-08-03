@@ -36,14 +36,14 @@ Files in GitHub:
 
 ## Day 1 PM Session - ML Overview
 
-Please refer back to (2024 repository)[https://github.com/seanlam74/GMS5204]
+Please refer back to [2024 repository](https://github.com/seanlam74/GMS5204)
 
 Files in GitHub:
 
 1. `Lab2_1_Clustering_CKD.ipynb`: contains script for hands-on lab 1 - unsupervised learning
    - chronic_kidney_disease_full_unclean.csv contains dataset for cleaning.
    - chronic_kidney_disease_full.csv contains original CKD dataset.
-   - Data Source: (Chronic Kidney Disease Dataset)[https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease]
+   - Data Source: [Chronic Kidney Disease Dataset](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)
 
 
 2. `Lab2_2_Supervised_HF.ipynb`: contains script for hands-on lab 2 - supervised learning
