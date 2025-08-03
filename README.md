@@ -9,7 +9,7 @@ Hands-on code that we will use for classroom exercise.
 3. Data Wrangling (Python)
 4. ML Overview (Python)
 
-## Day 1 Session 03 & 04 - Time Series Analysis
+## Day 1 Session 02 & 03 - Time Series Analysis
 
 Files in GitHub:
 
@@ -24,3 +24,12 @@ Files in GitHub:
 3. `glm_example.pdf` and `glm_example.Rmd` contain the script for logistic regression and interpretation on R. Running the Rmd on RStudio is highly recommended.
 
  
+## Day 1 Session 04 & 05 - Geospatial Analysis
+
+Files in GitHub:
+
+1. `Day01_Session05_geospatial.R` and `Day01_Session05_geospatial.pdf` contains the script to be run on R-Studio. 
+   - `geospatial.RData`: contains the data for base-maps, hospital locations, fire station locations and patient location (simulated).
+
+2. `Spatial_Wrangling` subfolder containing:
+   - `app.R` script for the deployed [dashboard](https://adamquek.shinyapps.io/disc_calc/)
