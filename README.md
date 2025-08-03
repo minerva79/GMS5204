@@ -1,4 +1,4 @@
-# Repository for GMS5204 (2025)
+# Repository for GMS5204 (2025) - Day 1
 
 Hands-on code that we will use for classroom exercise.
 
